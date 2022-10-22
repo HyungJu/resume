@@ -35,6 +35,7 @@ https://orderify.kr
 * Nodejs Backend는 유지 보수와 유연성을 위해 Clean Architecture를 적용하고 풍부한 도메인 모델을 만들기 위해 노력하고 있습니다.
 * 각 레이어를 엄격하게 분리하고 의존성 방향을 지키기 위해 노력하고 있습니다.
 
+
 ---
 
 ### Team Crescendo (사이드 프로젝트) - FORTE 2020.05 - 2022.04
@@ -47,7 +48,6 @@ https://team-crescendo.me
 
 ---
 
-
 ### 넷마블, Team Crescendo - 넷마블 마블 퓨처 레볼루션 챗봇 개발 프로젝트
 
 > 본 프로젝트에 백엔드 개발자로 참여했습니다.
@@ -55,13 +55,17 @@ https://team-crescendo.me
 * RabbitMQ를 사용한 대용량 트래픽 처리를 위한 챗봇 아키텍처 설계 및 구현에 참여했습니다.
 
 ---
-### Bearus (사이드 프로젝트) - 대학생을 위한 택시 합승 플랫폼 사전예약 랜딩페이지 2022.10 - 현재
+### Bearus (사이드 프로젝트) 2022.10 - 현재
 https://venus.bearus.co 
 
-> React, Next.js를 사용해 사전예약 페이지를 개발했습니다.
+> React, Next.js를 사용해 대학생을 위한 택시 합승 플랫폼 사전예약 페이지를 개발했습니다.
 
-* 택시 합승 플랫폼에 대한 실제 사용자들의 반응을 확인하기 위해 사전 예약 페이지를 개발했습니다.
+* 택시 합승 플랫폼에 대한 실제 고객의 반응을 확인하기 위해 사전 예약 페이지를 개발했습니다.
 * 디자인, Frontend, 그리고 사전 예약 결과를 저장하는 백엔드를 모두 개발했습니다.
+* 오래되고 복잡한 학생 정보 시스템을 자동화하여 대학생들의 학교 생활 편의를 위한 super-app을 만들고자 합니다.
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/9509286/197349819-e113638d-5bf0-4fd1-9645-246621366c93.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/9509286/197349836-049be7b9-240c-4c3b-9296-388e2b5f59bd.png">
 
 ---
 
@@ -79,14 +83,13 @@ https://venus.bearus.co
 * **TOEIC** - 960 (2022년 2월)
 * **TOPCIT** (소프트웨어 역량검정) - 533 (Level 3 / 2022년 5월)
 
-
 ## 지인 평가
 
 * 송영민 (SW마에스트로 13기 동료 연수생)
 > 형주님은 프로그램을 설계할 때 코드의 재사용성 및 유지보수성을 높이고자 다양한 아키텍쳐 및 기법들을 배우고 습득하려는 노력을 하고 있습니다. 새로운 기술을 습득하는데 거리낌이 없으며, 지속적으로 변화하는 시장에 적응해 나아가는데 어려움이 없습니다. 또한 팀 단위 활동에서 서로간 적극적인 피드백을 통해 본인의 단점은 개선하며 좋은 점은 유지하려 노력하며, 타인의 장단점을 구체적으로 피드백해주어 상호발전에 큰 기여를 하고 있습니다.
 
 ## Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330) 
 ![NestJs](https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-47448a?style=for-the-badge&logo=php&logoColor=white) 
