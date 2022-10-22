@@ -21,12 +21,13 @@ https://mywallets.xyz
 * 사용자는 마이 월렛에서 다양한 브랜드 중 하나를 선택하고 본인의 정보를 입력해 멤버십 카드를 생성할 수 있습니다.
 * NestJs를 사용해 백엔드를 구현하였습니다.
 
+Article : [초보 개발자의 백엔드 개발기](https://velog.io/@team_croco/%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-myWallets-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
+
 ---
 ### Orderify 백엔드 개발 (SW 마에스트로 연수 활동) 2022.03 - 현재
 https://orderify.kr
 
 > Orderify는 가게 앞에 직접 줄을 서지 않아도 웨이팅 신청을 할 수 있도록 하는 서비스입니다. Orderify의 Backend 서비스는 Node.js 가게용 서비스, Java 사용자용 서비스로 구성되어 있습니다.
-
 
 * Node.js 가게용 서비스를 개발하고 있습니다.
 * Frontend와 Spring Backend, 그리고 Nodejs Backend 총 3개의 서비스를 Nx를 사용해 모노레포로 구성했습니다.
@@ -34,7 +35,6 @@ https://orderify.kr
 * 모노레포를 사용함으로써 Frontend에서 Nodejs의 DTO 객체를 직접 사용할 수 있게 되었습니다.
 * Nodejs Backend는 유지 보수와 유연성을 위해 Clean Architecture를 적용하고 풍부한 도메인 모델을 만들기 위해 노력하고 있습니다.
 * 각 레이어를 엄격하게 분리하고 의존성 방향을 지키기 위해 노력하고 있습니다.
-
 
 ---
 
@@ -48,7 +48,7 @@ https://team-crescendo.me
 
 ---
 
-### 넷마블, Team Crescendo - 넷마블 마블 퓨처 레볼루션 챗봇 개발 프로젝트
+### 넷마블, Team Crescendo - 넷마블 마블 퓨처 레볼루션 챗봇 개발 프로젝트 (프리랜서)
 
 > 본 프로젝트에 백엔드 개발자로 참여했습니다.
 * Python 기반 개발 환경이 지배적인 챗봇 생태계에서 NestJS를 사용해 챗봇을 개발했습니다.
