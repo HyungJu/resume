@@ -23,6 +23,10 @@ https://mywallets.xyz
 
 Article : [초보 개발자의 백엔드 개발기](https://velog.io/@team_croco/%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-myWallets-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/9509286/197470509-299369e5-c43a-4231-889b-c501d918931d.png" />
+</p>
+
 ---
 ### Orderify 백엔드 개발 (SW 마에스트로 연수 활동) 2022.03 - 현재
 https://orderify.kr
@@ -35,6 +39,9 @@ https://orderify.kr
 * 모노레포를 사용함으로써 Frontend에서 Nodejs의 DTO 객체를 직접 사용할 수 있게 되었습니다.
 * Nodejs Backend는 유지 보수와 유연성을 위해 Clean Architecture를 적용하고 풍부한 도메인 모델을 만들기 위해 노력하고 있습니다.
 * 각 레이어를 엄격하게 분리하고 의존성 방향을 지키기 위해 노력하고 있습니다.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/9509286/197470541-9740f6b2-3ef0-4cd6-8b1b-0347001dbedc.png" />
+</p>
 
 ---
 
@@ -45,6 +52,11 @@ https://team-crescendo.me
 * 기존 스토어 서비스에서는 결제 처리를 위해 외부 PG 사로 전송하는 요청이 많았습니다.
 * 서비스 신뢰성을 위해 유닛 테스트를 도입하기로 결정하였지만, 서비스 레이어 곳곳에 존재해있던 외부 PG 사 요청으로 인해 원활히 테스트하기 어려웠습니다. 이 문제를 해결하기 위해 레포지토리 패턴을 도입하였고, 핵심 로직에 대한 유닛 테스트 코드를 작성했습니다.
 * 서버 상태를 실시간으로 모니터링하고 메모리 변화를 측정해 알림을 받을 수 있도록 구성했습니다.
+* 챗봇 유저들을 위한 이벤트 보상 지급을 위한 쿠폰 서비스의 개발에 참여했습니다.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/9509286/197470562-fceab84d-10bb-4094-a26c-e9f63bef946b.png" />
+</p>
 
 ---
 
@@ -54,7 +66,12 @@ https://team-crescendo.me
 * Python 기반 개발 환경이 지배적인 챗봇 생태계에서 NestJS를 사용해 챗봇을 개발했습니다.
 * RabbitMQ를 사용한 대용량 트래픽 처리를 위한 챗봇 아키텍처 설계 및 구현에 참여했습니다.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/9509286/197470576-1cf60fb3-b484-4134-8820-283b9838bfae.png" />
+</p>
+
 ---
+
 ### Bearus (사이드 프로젝트) 2022.10 - 현재
 https://venus.bearus.co 
 
@@ -64,8 +81,9 @@ https://venus.bearus.co
 * 디자인, Frontend, 그리고 사전 예약 결과를 저장하는 백엔드를 모두 개발했습니다.
 * 오래되고 복잡한 학생 정보 시스템을 자동화하여 대학생들의 학교 생활 편의를 위한 super-app을 만들고자 합니다.
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/9509286/197349819-e113638d-5bf0-4fd1-9645-246621366c93.png">
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/9509286/197349836-049be7b9-240c-4c3b-9296-388e2b5f59bd.png">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/9509286/197470601-bdbd812b-4291-434b-a606-bd7a71b432b4.png" />
+</p>
 
 ---
 
